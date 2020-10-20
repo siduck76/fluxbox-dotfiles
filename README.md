@@ -8,5 +8,8 @@ backup of my fluxbox dotfiles
 
 2. go to the cloned repo folder and you'll see a .fluxbox folder which contains all the fluxbox config. put this folder in your home folder .
 
-3. go to the .fluxbox folder and you
+<img src = "https://raw.githubusercontent.com/siduck76/fluxbox-dotfiles/main/fluxbox-config.png"
+
+3. go to the .fluxbox folder and the files startup / keys are important , be sure to chmod +x the startup file and remove all the uneeded bloat from it except exec-fluxbox thing .
+
 <img src ="https://raw.githubusercontent.com/siduck76/fluxbox-dotfiles/main/e.png">
