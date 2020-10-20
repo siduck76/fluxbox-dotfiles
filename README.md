@@ -21,7 +21,6 @@ backup of my fluxbox dotfiles
 6. install polybar from your distro's repo and put my polybar folder into ~/.config folder , go to the polybar folder and be sure to chmod +x all the scripts in it.
   btw my systemtray on my poly is kinda messed up so goodluck in editing my dirty config.
   
-
+7. copy the my rofi folder in ~/.config and install these icons for rofi https://github.com/OrancheloTeam/oranchelo-icon-theme .
   
-
 <img src ="https://raw.githubusercontent.com/siduck76/fluxbox-dotfiles/main/e.png">
