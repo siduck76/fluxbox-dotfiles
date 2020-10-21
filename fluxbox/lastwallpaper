@@ -1,0 +1,5 @@
+$full $full|/home/sid/Pictures/wallpapers /dracul arch.png||:0.0
+$full $full|/home/sid/Pictures/wall/flowers.png||:0
+fbsetroot|-foreground #ffffff -solid #ffffff|style|:2.0
+fbsetroot|-foreground #ffffff -solid #ffffff|style|:3.0
+fbsetroot|-foreground #ffffff -solid #ffffff|style|:1.0

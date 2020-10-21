@@ -1,0 +1,33 @@
+#!/bin/sh
+#
+# fluxbox startup-script:
+#
+# Lines starting with a '#' are ignored.
+
+feh --bg-fill ~/Pictures/wall/no.png &
+cp -r ~/Public/rofi/bspwm\ /rofi/ ~/.config &
+xfce4-panel &
+#tint2 -c /home/sid/Public/behappy\ tint2/tint2rc &
+#/home/sid/./masood..
+xrdb merge ~/Public/xresources/dracula/.Xresources &
+./masood.. fluxbox &
+
+# Change your keymap:
+xmodmap "/home/sid/.Xmodmap"
+
+# Applications you want to run with fluxbox.
+# MAKE SURE THAT APPS THAT KEEP RUNNING HAVE AN ''&'' AT THE END.
+#
+# unclutter -idle 2 &
+# wmnd &
+# wmsmixer -w &
+# idesk &
+
+# And last but not least we start fluxbox.
+# Because it is the last app you have to run it with ''exec'' before it.
+
+exec fluxbox
+# or if you want to keep a log:
+# exec fluxbox -log "/home/sid/.fluxbox/log"
+
+
