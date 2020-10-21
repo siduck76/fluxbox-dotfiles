@@ -6,7 +6,7 @@ backup of my fluxbox dotfiles
 
 1. git clone https://github.com/siduck76/fluxbox-dotfiles.git
 
-2. go to the cloned repo folder and you'll see a .fluxbox folder which contains all the fluxbox config. put this folder in your home folder .
+2. go to the cloned repo folder and you'll see a fluxbox folder which contains all the fluxbox config. put this folder in your home folder  and rename fluxbox to .fluxbox .
 
 <img src = "https://raw.githubusercontent.com/siduck76/fluxbox-dotfiles/main/fluxbox-config.png">
 
