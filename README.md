@@ -1,5 +1,5 @@
 # fluxbox-dotfiles
-backup of my fluxbox dotfiles
+ 
 
 
 #steps to clone my rice 
