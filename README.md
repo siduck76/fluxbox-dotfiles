@@ -25,4 +25,4 @@
   
 <img src ="https://raw.githubusercontent.com/siduck76/fluxbox-dotfiles/main/e.png">
 
-#my ricing/linux community https://t.me/DE_WM (telegram group) 
+# my ricing/linux community https://t.me/DE_WM (telegram group) 
