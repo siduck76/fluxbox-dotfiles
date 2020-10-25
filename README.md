@@ -24,3 +24,5 @@
 7. copy the my rofi folder in ~/.config and install these icons for rofi https://github.com/OrancheloTeam/oranchelo-icon-theme .
   
 <img src ="https://raw.githubusercontent.com/siduck76/fluxbox-dotfiles/main/e.png">
+
+my ricing/linux community https://t.me/DE_WM (telegram group) 
